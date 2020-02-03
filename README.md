@@ -9,3 +9,7 @@ f1 branch {
 f2 branch {
     part 1
 }
+
+PC2 f2 branch {
+    part 1
+}
